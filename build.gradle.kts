@@ -23,5 +23,5 @@ testing {
 }
 
 application {
-    mainClass = "uk.co.bluegecko.marine.alert.AlertApplication"
+    mainClass.set("uk.co.bluegecko.marine.alert.AlertApplication")
 }
